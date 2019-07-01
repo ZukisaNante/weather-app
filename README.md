@@ -15,7 +15,7 @@
 > 5. Create funcions relevant to the desired results per input.
 > 6. Console.log practice to each an every step completed.
 ---
-###Design
+### Design
 > - Center container and it's elements and give a transparent background.
 > - show/hide (toggle) the weather div.
 > - Weather div only shows after the user has inserted input.
@@ -23,7 +23,7 @@
 > 1. get weather request using GET method.
 > 2. POST user data input to be able to collect weather results.
 ---
-###Ptroject PLan
+### Ptroject PLan
 #### Four Days Project
 > - Literature Review  & project approach brainstorming - 8 hours (first day) & continuously.
 > - JS coding and testing - 6 hours daily.
