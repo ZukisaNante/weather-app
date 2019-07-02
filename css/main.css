@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 800px;
+    height: 100vh;
+    margin: 0% auto;
+    padding: 10px;
+}
+
+.city-button {
+    background-color: lightslategray;
+    height: 40px;
+    width: 80px;
+    padding: 10px;
+    float: initial;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 17px;
+    color: white;
+}
+
+.user-city {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.show-weather {
+    background-color: lightseagreen;
+    color: white;
+    height: 400px;
+    width: 200px;
+    padding: 10px;
+}
