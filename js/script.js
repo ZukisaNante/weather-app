@@ -24,7 +24,7 @@ function drawWeather(day) {
 
     document.getElementById('description').innerHTML = description;
     document.getElementById('temp').innerHTML = celsius + '&deg;';
-    document.getElementById('location').innerHTML = day.name;
+    document.getElementById('lo cation').innerHTML = day.name;
 
     if (description.indexOf('rain') > 0) {
         document.body.className = 'rainy';
